@@ -1,8 +1,8 @@
 # miShell - A simple shell
 A simple/minimal unix shell
 
-usage:
-Clone and cd into the repo.
-Compile with gcc and run:
-gcc main.c
+usage:<br>
+Clone and cd into the repo.<br>
+Compile with gcc and run:<br>
+gcc main.c<br>
 ./a.out
