@@ -1,5 +1,5 @@
 # miShell - A simple shell
-A simple/minimal unix shell
+A simple unix shell
 
 usage:<br>
 Clone and cd into the repo.<br>
